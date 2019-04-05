@@ -1,0 +1,6 @@
+Class 3:
+Lists
+Tuples
+Sets
+Dictionary
+Strings
